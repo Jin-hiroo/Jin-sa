@@ -2,7 +2,7 @@
 readme
 
 Hello
-Jin Sa from Japan
+Jin from Japan
 
 Learning
-Java, C, C++, ...
+Machine learning, Next, React, ...
